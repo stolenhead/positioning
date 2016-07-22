@@ -1,0 +1,33 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+div{
+	 width: 200px;
+	height: 200px;
+    
+}
+.cajaa{
+    background-color: #ee3e64;
+    position: absolute;
+    left: 0px
+    top: 0px;
+}
+.cajab{
+    background-color: #44accf;
+    position: absolute;
+    right: 0px;
+    top:0px;
+}
+.cajac{
+    background-color: #b7d84b;
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+}
+.cajad{
+	background-color: yellow;
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+}
